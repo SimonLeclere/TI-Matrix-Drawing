@@ -7,7 +7,7 @@ Il supporte jusqu'à 14 couleurs différentes.
 # Histoire
 
 - Ce projet débute pendant un cours sur les logarithmes népériens durant lequel je n'ai pas trop écouté (je me suis rattrapé depuis)
-- La première version dessine des matrices 5x5 en environ 5 minutes et ne supporte qu'une seule commande
+- La première version dessine des matrices 5x5 en environ 5 minutes et ne supporte qu'une seule matrice
 - Ensuite vient l'ajout des couleurs et la modification de la taille des matrices de 5x5 en 20x20
 - La dernière mise à jour ayant rendu le temps de dessin beaucoup trop long, je décide de dessiner en utilisant des lignes plutôt que pixel par pixel, ce qui permet d'accélérer drastiquement le temps de dessin (environ 500% plus rapidement)
 - Enfin, j'ajoute la possibilité de choisir la matrice à dessiner au lieu de simplement dessiner la matrice [A] ce qui permet de stocker différents dessins.
